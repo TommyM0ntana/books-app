@@ -10,7 +10,7 @@ class SessionsController < ApplicationController
   
   def destroy
 #log the user out
-
+####
   end
   
   end

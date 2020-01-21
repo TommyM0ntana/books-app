@@ -7,5 +7,5 @@ class StaticController < ApplicationController
     #if logged in redirect the user to their showpage page
   end
   
-  
+  ##
   end
